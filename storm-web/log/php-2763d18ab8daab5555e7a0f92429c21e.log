@@ -1,0 +1,598 @@
+[Sat Aug 24 22:44:20 2024] PHP 8.2.21 Development Server (http://localhost:2525) started
+[Sat Aug 24 22:44:33 2024] [::1]:38190 Accepted
+[Sat Aug 24 22:44:33 2024] [::1]:38190 [302]: GET /
+[Sat Aug 24 22:44:33 2024] [::1]:38190 Closing
+[Sat Aug 24 22:44:33 2024] [::1]:38198 Accepted
+[Sat Aug 24 22:44:33 2024] [::1]:38198 [200]: GET /login.php
+[Sat Aug 24 22:44:33 2024] [::1]:38198 Closing
+[Sat Aug 24 22:44:33 2024] [::1]:38214 Accepted
+[Sat Aug 24 22:44:33 2024] [::1]:38214 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:44:33 2024] [::1]:38214 Closing
+[Sat Aug 24 22:44:33 2024] [::1]:38220 Accepted
+[Sat Aug 24 22:44:33 2024] [::1]:38220 [200]: GET /assets/css/style.css
+[Sat Aug 24 22:44:33 2024] [::1]:38220 Closing
+[Sat Aug 24 22:44:33 2024] [::1]:38224 Accepted
+[Sat Aug 24 22:44:33 2024] [::1]:38224 [404]: GET /favicon.ico - No such file or directory
+[Sat Aug 24 22:44:33 2024] [::1]:38224 Closing
+[Sat Aug 24 22:44:36 2024] [::1]:38232 Accepted
+[Sat Aug 24 22:44:36 2024] [::1]:38232 [200]: POST /login.php
+[Sat Aug 24 22:44:36 2024] [::1]:38232 Closing
+[Sat Aug 24 22:44:36 2024] [::1]:38234 Accepted
+[Sat Aug 24 22:44:36 2024] [::1]:38234 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:44:36 2024] [::1]:38234 Closing
+[Sat Aug 24 22:44:36 2024] [::1]:38248 Accepted
+[Sat Aug 24 22:44:36 2024] [::1]:38248 [200]: GET /assets/css/style.css
+[Sat Aug 24 22:44:36 2024] [::1]:38248 Closing
+[Sat Aug 24 22:44:36 2024] [::1]:38260 Accepted
+[Sat Aug 24 22:44:36 2024] [::1]:38260 [200]: GET /panel.php
+[Sat Aug 24 22:44:36 2024] [::1]:38260 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38270 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38272 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38282 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38292 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38270 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:44:37 2024] [::1]:38270 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38300 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38272 [200]: GET /assets/css/light-theme.min.css
+[Sat Aug 24 22:44:37 2024] [::1]:38304 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38272 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38282 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:44:37 2024] [::1]:38282 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38292 [200]: GET /assets/js/script.js
+[Sat Aug 24 22:44:37 2024] [::1]:38292 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38300 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Aug 24 22:44:37 2024] [::1]:38300 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38304 [200]: GET /assets/js/growl-notification.min.js
+[Sat Aug 24 22:44:37 2024] [::1]:38304 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38306 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38306 [200]: GET /Settings.json
+[Sat Aug 24 22:44:37 2024] [::1]:38306 Closing
+[Sat Aug 24 22:44:37 2024] [::1]:38312 Accepted
+[Sat Aug 24 22:44:37 2024] [::1]:38312 [200]: POST /list_templates.php
+[Sat Aug 24 22:44:37 2024] [::1]:38312 Closing
+[Sat Aug 24 22:44:40 2024] [::1]:38322 Accepted
+[Sat Aug 24 22:44:40 2024] [::1]:38322 [200]: POST /receiver.php
+[Sat Aug 24 22:44:40 2024] [::1]:38322 Closing
+[Sat Aug 24 22:44:42 2024] [::1]:39040 Accepted
+[Sat Aug 24 22:44:42 2024] [::1]:39040 [200]: POST /receiver.php
+[Sat Aug 24 22:44:42 2024] [::1]:39040 Closing
+[Sat Aug 24 22:44:44 2024] [::1]:39044 Accepted
+[Sat Aug 24 22:44:44 2024] [::1]:39044 [200]: POST /receiver.php
+[Sat Aug 24 22:44:44 2024] [::1]:39044 Closing
+[Sat Aug 24 22:44:46 2024] [::1]:39060 Accepted
+[Sat Aug 24 22:44:46 2024] [::1]:39060 [200]: POST /receiver.php
+[Sat Aug 24 22:44:46 2024] [::1]:39060 Closing
+[Sat Aug 24 22:44:48 2024] [::1]:39072 Accepted
+[Sat Aug 24 22:44:48 2024] [::1]:39072 [200]: POST /receiver.php
+[Sat Aug 24 22:44:48 2024] [::1]:39072 Closing
+[Sat Aug 24 22:44:50 2024] [::1]:39080 Accepted
+[Sat Aug 24 22:44:50 2024] [::1]:39080 [200]: POST /receiver.php
+[Sat Aug 24 22:44:50 2024] [::1]:39080 Closing
+[Sat Aug 24 22:44:52 2024] [::1]:48462 Accepted
+[Sat Aug 24 22:44:52 2024] [::1]:48462 [200]: POST /receiver.php
+[Sat Aug 24 22:44:52 2024] [::1]:48462 Closing
+[Sat Aug 24 22:44:54 2024] [::1]:48464 Accepted
+[Sat Aug 24 22:44:54 2024] [::1]:48464 [200]: POST /receiver.php
+[Sat Aug 24 22:44:54 2024] [::1]:48464 Closing
+[Sat Aug 24 22:44:56 2024] [::1]:48470 Accepted
+[Sat Aug 24 22:44:56 2024] [::1]:48470 [200]: POST /receiver.php
+[Sat Aug 24 22:44:56 2024] [::1]:48470 Closing
+[Sat Aug 24 22:44:58 2024] [::1]:48476 Accepted
+[Sat Aug 24 22:44:58 2024] [::1]:48476 [200]: POST /receiver.php
+[Sat Aug 24 22:44:58 2024] [::1]:48476 Closing
+[Sat Aug 24 22:45:00 2024] [::1]:48480 Accepted
+[Sat Aug 24 22:45:00 2024] [::1]:48480 [200]: POST /receiver.php
+[Sat Aug 24 22:45:00 2024] [::1]:48480 Closing
+[Sat Aug 24 22:45:02 2024] [::1]:36700 Accepted
+[Sat Aug 24 22:45:02 2024] [::1]:36700 [200]: POST /receiver.php
+[Sat Aug 24 22:45:02 2024] [::1]:36700 Closing
+[Sat Aug 24 22:45:04 2024] [::1]:36708 Accepted
+[Sat Aug 24 22:45:04 2024] [::1]:36708 [200]: POST /receiver.php
+[Sat Aug 24 22:45:04 2024] [::1]:36708 Closing
+[Sat Aug 24 22:45:06 2024] [::1]:36720 Accepted
+[Sat Aug 24 22:45:06 2024] [::1]:36720 [200]: POST /receiver.php
+[Sat Aug 24 22:45:06 2024] [::1]:36720 Closing
+[Sat Aug 24 22:45:08 2024] [::1]:36722 Accepted
+[Sat Aug 24 22:45:08 2024] [::1]:36722 [200]: POST /receiver.php
+[Sat Aug 24 22:45:08 2024] [::1]:36722 Closing
+[Sat Aug 24 22:45:10 2024] [::1]:36728 Accepted
+[Sat Aug 24 22:45:10 2024] [::1]:36728 [200]: POST /receiver.php
+[Sat Aug 24 22:45:10 2024] [::1]:36728 Closing
+[Sat Aug 24 22:45:12 2024] [::1]:54188 Accepted
+[Sat Aug 24 22:45:12 2024] [::1]:54188 [200]: POST /receiver.php
+[Sat Aug 24 22:45:12 2024] [::1]:54188 Closing
+[Sat Aug 24 22:45:14 2024] [::1]:54202 Accepted
+[Sat Aug 24 22:45:14 2024] [::1]:54202 [200]: POST /receiver.php
+[Sat Aug 24 22:45:14 2024] [::1]:54202 Closing
+[Sat Aug 24 22:45:16 2024] [::1]:54214 Accepted
+[Sat Aug 24 22:45:16 2024] [::1]:54214 [200]: POST /receiver.php
+[Sat Aug 24 22:45:16 2024] [::1]:54214 Closing
+[Sat Aug 24 22:45:18 2024] [::1]:54220 Accepted
+[Sat Aug 24 22:45:18 2024] [::1]:54220 [200]: POST /receiver.php
+[Sat Aug 24 22:45:18 2024] [::1]:54220 Closing
+[Sat Aug 24 22:45:20 2024] [::1]:54236 Accepted
+[Sat Aug 24 22:45:20 2024] [::1]:54236 [200]: POST /receiver.php
+[Sat Aug 24 22:45:20 2024] [::1]:54236 Closing
+[Sat Aug 24 22:45:22 2024] [::1]:43450 Accepted
+[Sat Aug 24 22:45:22 2024] [::1]:43450 [200]: POST /receiver.php
+[Sat Aug 24 22:45:22 2024] [::1]:43450 Closing
+[Sat Aug 24 22:45:24 2024] [::1]:43464 Accepted
+[Sat Aug 24 22:45:24 2024] [::1]:43464 [200]: POST /receiver.php
+[Sat Aug 24 22:45:24 2024] [::1]:43464 Closing
+[Sat Aug 24 22:45:26 2024] [::1]:43476 Accepted
+[Sat Aug 24 22:45:26 2024] [::1]:43476 [200]: POST /receiver.php
+[Sat Aug 24 22:45:26 2024] [::1]:43476 Closing
+[Sat Aug 24 22:45:28 2024] [::1]:43478 Accepted
+[Sat Aug 24 22:45:28 2024] [::1]:43478 [200]: POST /receiver.php
+[Sat Aug 24 22:45:28 2024] [::1]:43478 Closing
+[Sat Aug 24 22:46:39 2024] [::1]:35776 Accepted
+[Sat Aug 24 22:46:39 2024] [::1]:35776 [200]: GET /templates/camera_temp/index.html
+[Sat Aug 24 22:46:39 2024] [::1]:35776 Closing
+[Sat Aug 24 22:46:39 2024] [::1]:35788 Accepted
+[Sat Aug 24 22:46:40 2024] [::1]:35802 Accepted
+[Sat Aug 24 22:46:40 2024] [::1]:35816 Accepted
+[Sat Aug 24 22:46:40 2024] [::1]:35822 Accepted
+[Sat Aug 24 22:46:40 2024] [::1]:35826 Accepted
+[Sat Aug 24 22:46:40 2024] [::1]:35788 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:46:40 2024] [::1]:35788 Closing
+[Sat Aug 24 22:46:40 2024] [::1]:35802 [200]: GET /templates/camera_temp/style.css
+[Sat Aug 24 22:46:40 2024] [::1]:35802 Closing
+[Sat Aug 24 22:46:40 2024] [::1]:35816 [200]: GET /templates/camera_temp/all.css
+[Sat Aug 24 22:46:40 2024] [::1]:35816 Closing
+[Sat Aug 24 22:46:40 2024] [::1]:35822 [200]: GET /assets/js/client.min.js
+[Sat Aug 24 22:46:40 2024] [::1]:35822 Closing
+[Sat Aug 24 22:46:40 2024] [::1]:35826 [200]: GET /assets/js/loc.js
+[Sat Aug 24 22:46:40 2024] [::1]:35826 Closing
+[Sat Aug 24 22:46:41 2024] [::1]:47856 Accepted
+[Sat Aug 24 22:46:41 2024] [::1]:47856 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sat Aug 24 22:46:41 2024] [::1]:47856 Closing
+[Sat Aug 24 22:46:41 2024] [::1]:47870 Accepted
+[Sat Aug 24 22:46:41 2024] [::1]:47870 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Sat Aug 24 22:46:41 2024] [::1]:47870 Closing
+[Sat Aug 24 22:46:41 2024] [::1]:47884 Accepted
+[Sat Aug 24 22:46:41 2024] [::1]:47884 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Sat Aug 24 22:46:41 2024] [::1]:47884 Closing
+[Sat Aug 24 22:46:43 2024] [::1]:47896 Accepted
+[Sat Aug 24 22:46:43 2024] [::1]:47896 [200]: POST /templates/camera_temp/handler.php
+[Sat Aug 24 22:46:43 2024] [::1]:47896 Closing
+[Sat Aug 24 22:46:55 2024] [::1]:44814 Accepted
+[Sat Aug 24 22:46:55 2024] [::1]:44814 [200]: POST /templates/camera_temp/post.php
+[Sat Aug 24 22:46:55 2024] [::1]:44814 Closing
+[Sat Aug 24 22:47:00 2024] [::1]:54388 Accepted
+[Sat Aug 24 22:47:00 2024] [::1]:54388 [200]: GET /templates/camera_temp/index.html
+[Sat Aug 24 22:47:00 2024] [::1]:54388 Closing
+[Sat Aug 24 22:47:00 2024] [::1]:54404 Accepted
+[Sat Aug 24 22:47:00 2024] [::1]:54404 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:47:00 2024] [::1]:54404 Closing
+[Sat Aug 24 22:47:00 2024] [::1]:54408 Accepted
+[Sat Aug 24 22:47:00 2024] [::1]:54414 Accepted
+[Sat Aug 24 22:47:00 2024] [::1]:54424 Accepted
+[Sat Aug 24 22:47:00 2024] [::1]:54430 Accepted
+[Sat Aug 24 22:47:00 2024] [::1]:54408 [200]: GET /templates/camera_temp/style.css
+[Sat Aug 24 22:47:00 2024] [::1]:54408 Closing
+[Sat Aug 24 22:47:00 2024] [::1]:54414 [200]: GET /templates/camera_temp/all.css
+[Sat Aug 24 22:47:00 2024] [::1]:54424 [200]: GET /assets/js/client.min.js
+[Sat Aug 24 22:47:00 2024] [::1]:54414 Closing
+[Sat Aug 24 22:47:00 2024] [::1]:54430 [200]: GET /assets/js/loc.js
+[Sat Aug 24 22:47:00 2024] [::1]:54424 Closing
+[Sat Aug 24 22:47:00 2024] [::1]:54430 Closing
+[Sat Aug 24 22:47:01 2024] [::1]:54436 Accepted
+[Sat Aug 24 22:47:01 2024] [::1]:54436 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sat Aug 24 22:47:01 2024] [::1]:54436 Closing
+[Sat Aug 24 22:47:01 2024] [::1]:54440 Accepted
+[Sat Aug 24 22:47:01 2024] [::1]:54440 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Sat Aug 24 22:47:01 2024] [::1]:54440 Closing
+[Sat Aug 24 22:47:01 2024] [::1]:54448 Accepted
+[Sat Aug 24 22:47:01 2024] [::1]:54448 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Sat Aug 24 22:47:01 2024] [::1]:54448 Closing
+[Sat Aug 24 22:47:01 2024] [::1]:54460 Accepted
+[Sat Aug 24 22:47:01 2024] [::1]:54460 [200]: POST /templates/camera_temp/handler.php
+[Sat Aug 24 22:47:01 2024] [::1]:54460 Closing
+[Sat Aug 24 22:47:10 2024] [::1]:43562 Accepted
+[Sat Aug 24 22:47:10 2024] [::1]:43562 [200]: GET /panel.php
+[Sat Aug 24 22:47:10 2024] [::1]:43562 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43566 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43566 [200]: POST /templates/camera_temp/post.php
+[Sat Aug 24 22:47:11 2024] [::1]:43566 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43572 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43584 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43588 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43594 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43602 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43614 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43572 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:47:11 2024] [::1]:43584 [200]: GET /assets/css/light-theme.min.css
+[Sat Aug 24 22:47:11 2024] [::1]:43572 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43584 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43588 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:47:11 2024] [::1]:43588 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43594 [200]: GET /assets/js/script.js
+[Sat Aug 24 22:47:11 2024] [::1]:43602 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Aug 24 22:47:11 2024] [::1]:43614 [200]: GET /assets/js/growl-notification.min.js
+[Sat Aug 24 22:47:11 2024] [::1]:43594 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43602 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43614 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43626 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43626 [200]: GET /Settings.json
+[Sat Aug 24 22:47:11 2024] [::1]:43626 Closing
+[Sat Aug 24 22:47:11 2024] [::1]:43630 Accepted
+[Sat Aug 24 22:47:11 2024] [::1]:43630 [200]: POST /list_templates.php
+[Sat Aug 24 22:47:11 2024] [::1]:43630 Closing
+[Sat Aug 24 22:47:14 2024] [::1]:43634 Accepted
+[Sat Aug 24 22:47:14 2024] [::1]:43634 [200]: POST /receiver.php
+[Sat Aug 24 22:47:14 2024] [::1]:43634 Closing
+[Sat Aug 24 22:47:16 2024] [::1]:43636 Accepted
+[Sat Aug 24 22:47:16 2024] [::1]:43636 [200]: POST /receiver.php
+[Sat Aug 24 22:47:16 2024] [::1]:43636 Closing
+[Sat Aug 24 22:47:17 2024] [::1]:43650 Accepted
+[Sat Aug 24 22:47:17 2024] [::1]:43650 [200]: GET /images/cam24Aug2024174711.png
+[Sat Aug 24 22:47:17 2024] [::1]:43650 Closing
+[Sat Aug 24 22:47:18 2024] [::1]:43664 Accepted
+[Sat Aug 24 22:47:18 2024] [::1]:43664 [200]: POST /receiver.php
+[Sat Aug 24 22:47:18 2024] [::1]:43664 Closing
+[Sat Aug 24 22:47:19 2024] [::1]:43670 Accepted
+[Sat Aug 24 22:47:19 2024] [::1]:43670 [200]: POST /templates/camera_temp/post.php
+[Sat Aug 24 22:47:19 2024] [::1]:43670 Closing
+[Sat Aug 24 22:47:20 2024] [::1]:43676 Accepted
+[Sat Aug 24 22:47:20 2024] [::1]:43676 [200]: POST /receiver.php
+[Sat Aug 24 22:47:20 2024] [::1]:43676 Closing
+[Sat Aug 24 22:47:22 2024] [::1]:54534 Accepted
+[Sat Aug 24 22:47:22 2024] [::1]:54534 [200]: POST /receiver.php
+[Sat Aug 24 22:47:22 2024] [::1]:54534 Closing
+[Sat Aug 24 22:47:23 2024] [::1]:54546 Accepted
+[Sat Aug 24 22:47:23 2024] [::1]:54546 [200]: GET /images/cam24Aug2024174719.png
+[Sat Aug 24 22:47:23 2024] [::1]:54546 Closing
+[Sat Aug 24 22:47:24 2024] [::1]:54556 Accepted
+[Sat Aug 24 22:47:24 2024] [::1]:54556 [200]: POST /receiver.php
+[Sat Aug 24 22:47:24 2024] [::1]:54556 Closing
+[Sat Aug 24 22:47:26 2024] [::1]:54562 Accepted
+[Sat Aug 24 22:47:26 2024] [::1]:54562 [200]: POST /receiver.php
+[Sat Aug 24 22:47:26 2024] [::1]:54562 Closing
+[Sat Aug 24 22:47:28 2024] [::1]:54568 Accepted
+[Sat Aug 24 22:47:28 2024] [::1]:54568 [200]: POST /receiver.php
+[Sat Aug 24 22:47:28 2024] [::1]:54568 Closing
+[Sat Aug 24 22:47:28 2024] [::1]:54584 Accepted
+[Sat Aug 24 22:47:29 2024] [::1]:54584 [200]: POST /templates/camera_temp/post.php
+[Sat Aug 24 22:47:29 2024] [::1]:54584 Closing
+[Sat Aug 24 22:47:30 2024] [::1]:54594 Accepted
+[Sat Aug 24 22:47:30 2024] [::1]:54594 [200]: POST /receiver.php
+[Sat Aug 24 22:47:30 2024] [::1]:54594 Closing
+[Sat Aug 24 22:47:31 2024] [::1]:51546 Accepted
+[Sat Aug 24 22:47:31 2024] [::1]:51546 [200]: GET /images/cam24Aug2024174729.png
+[Sat Aug 24 22:47:31 2024] [::1]:51546 Closing
+[Sat Aug 24 22:47:32 2024] [::1]:51556 Accepted
+[Sat Aug 24 22:47:32 2024] [::1]:51556 [200]: POST /receiver.php
+[Sat Aug 24 22:47:32 2024] [::1]:51556 Closing
+[Sat Aug 24 22:47:34 2024] [::1]:51562 Accepted
+[Sat Aug 24 22:47:34 2024] [::1]:51562 [200]: POST /receiver.php
+[Sat Aug 24 22:47:34 2024] [::1]:51562 Closing
+[Sat Aug 24 22:47:36 2024] [::1]:51564 Accepted
+[Sat Aug 24 22:47:36 2024] [::1]:51564 [200]: POST /receiver.php
+[Sat Aug 24 22:47:36 2024] [::1]:51564 Closing
+[Sat Aug 24 22:47:38 2024] [::1]:51574 Accepted
+[Sat Aug 24 22:47:38 2024] [::1]:51574 [200]: POST /receiver.php
+[Sat Aug 24 22:47:38 2024] [::1]:51574 Closing
+[Sat Aug 24 22:47:40 2024] [::1]:51586 Accepted
+[Sat Aug 24 22:47:40 2024] [::1]:51586 [200]: POST /receiver.php
+[Sat Aug 24 22:47:40 2024] [::1]:51586 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:54980 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:54980 [200]: POST /receiver.php
+[Sat Aug 24 22:47:42 2024] [::1]:54980 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:54984 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:54984 [200]: GET /templates/microphone/index.html
+[Sat Aug 24 22:47:42 2024] [::1]:54984 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:54990 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:54990 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:47:42 2024] [::1]:54990 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:55006 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:55016 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:55022 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:55036 Accepted
+[Sat Aug 24 22:47:42 2024] [::1]:55006 [200]: GET /assets/js/client.min.js
+[Sat Aug 24 22:47:42 2024] [::1]:55016 [200]: GET /assets/js/loc.js
+[Sat Aug 24 22:47:42 2024] [::1]:55022 [200]: GET /assets/js/recorder.js
+[Sat Aug 24 22:47:42 2024] [::1]:55036 [200]: GET /templates/microphone/js/_app.js
+[Sat Aug 24 22:47:42 2024] [::1]:55006 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:55016 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:55022 Closing
+[Sat Aug 24 22:47:42 2024] [::1]:55036 Closing
+[Sat Aug 24 22:47:43 2024] [::1]:55052 Accepted
+[Sat Aug 24 22:47:43 2024] [::1]:55052 [200]: POST /templates/microphone/handler.php
+[Sat Aug 24 22:47:43 2024] [::1]:55052 Closing
+[Sat Aug 24 22:47:44 2024] [::1]:55062 Accepted
+[Sat Aug 24 22:47:44 2024] [::1]:55062 [200]: POST /receiver.php
+[Sat Aug 24 22:47:44 2024] [::1]:55062 Closing
+[Sat Aug 24 22:47:46 2024] [::1]:55072 Accepted
+[Sat Aug 24 22:47:46 2024] [::1]:55072 [200]: POST /receiver.php
+[Sat Aug 24 22:47:46 2024] [::1]:55072 Closing
+[Sat Aug 24 22:47:48 2024] [::1]:55082 Accepted
+[Sat Aug 24 22:47:48 2024] [::1]:55082 [200]: POST /receiver.php
+[Sat Aug 24 22:47:48 2024] [::1]:55082 Closing
+[Sat Aug 24 22:47:49 2024] [::1]:55092 Accepted
+[Sat Aug 24 22:47:49 2024] [::1]:55092 [200]: POST /templates/microphone/upload.php
+[Sat Aug 24 22:47:49 2024] [::1]:55092 Closing
+[Sat Aug 24 22:47:50 2024] [::1]:51460 Accepted
+[Sat Aug 24 22:47:50 2024] [::1]:51460 [200]: POST /receiver.php
+[Sat Aug 24 22:47:50 2024] [::1]:51460 Closing
+[Sat Aug 24 22:47:52 2024] [::1]:51462 Accepted
+[Sat Aug 24 22:47:52 2024] [::1]:51462 [200]: POST /receiver.php
+[Sat Aug 24 22:47:52 2024] [::1]:51462 Closing
+[Sat Aug 24 22:47:54 2024] [::1]:51476 Accepted
+[Sat Aug 24 22:47:54 2024] [::1]:51476 [200]: POST /receiver.php
+[Sat Aug 24 22:47:54 2024] [::1]:51476 Closing
+[Sat Aug 24 22:47:55 2024] [::1]:51486 Accepted
+[Sat Aug 24 22:47:55 2024] [::1]:51486 [200]: POST /templates/microphone/upload.php
+[Sat Aug 24 22:47:55 2024] [::1]:51486 Closing
+[Sat Aug 24 22:47:56 2024] [::1]:51498 Accepted
+[Sat Aug 24 22:47:56 2024] [::1]:51498 [200]: POST /receiver.php
+[Sat Aug 24 22:47:56 2024] [::1]:51498 Closing
+[Sat Aug 24 22:47:58 2024] [::1]:51506 Accepted
+[Sat Aug 24 22:47:58 2024] [::1]:51506 [200]: POST /receiver.php
+[Sat Aug 24 22:47:58 2024] [::1]:51506 Closing
+[Sat Aug 24 22:48:00 2024] [::1]:48040 Accepted
+[Sat Aug 24 22:48:00 2024] [::1]:48040 [200]: POST /receiver.php
+[Sat Aug 24 22:48:00 2024] [::1]:48040 Closing
+[Sat Aug 24 22:48:00 2024] [::1]:48048 Accepted
+[Sat Aug 24 22:48:00 2024] [::1]:48048 [200]: POST /templates/microphone/upload.php
+[Sat Aug 24 22:48:00 2024] [::1]:48048 Closing
+[Sat Aug 24 22:48:02 2024] [::1]:48056 Accepted
+[Sat Aug 24 22:48:02 2024] [::1]:48056 [200]: POST /receiver.php
+[Sat Aug 24 22:48:02 2024] [::1]:48056 Closing
+[Sat Aug 24 22:48:04 2024] [::1]:48066 Accepted
+[Sat Aug 24 22:48:04 2024] [::1]:48066 [200]: POST /receiver.php
+[Sat Aug 24 22:48:04 2024] [::1]:48066 Closing
+[Sat Aug 24 22:48:06 2024] [::1]:48080 Accepted
+[Sat Aug 24 22:48:06 2024] [::1]:48080 [200]: POST /receiver.php
+[Sat Aug 24 22:48:06 2024] [::1]:48080 Closing
+[Sat Aug 24 22:48:07 2024] [::1]:48088 Accepted
+[Sat Aug 24 22:48:07 2024] [::1]:48088 [200]: POST /templates/microphone/upload.php
+[Sat Aug 24 22:48:07 2024] [::1]:48088 Closing
+[Sat Aug 24 22:48:08 2024] [::1]:48092 Accepted
+[Sat Aug 24 22:48:08 2024] [::1]:48092 [200]: POST /receiver.php
+[Sat Aug 24 22:48:08 2024] [::1]:48092 Closing
+[Sat Aug 24 22:48:10 2024] [::1]:48102 Accepted
+[Sat Aug 24 22:48:10 2024] [::1]:48102 [200]: POST /receiver.php
+[Sat Aug 24 22:48:10 2024] [::1]:48102 Closing
+[Sat Aug 24 22:48:12 2024] [::1]:52780 Accepted
+[Sat Aug 24 22:48:12 2024] [::1]:52780 [200]: POST /receiver.php
+[Sat Aug 24 22:48:12 2024] [::1]:52780 Closing
+[Sat Aug 24 22:48:14 2024] [::1]:52782 Accepted
+[Sat Aug 24 22:48:14 2024] [::1]:52782 [200]: POST /receiver.php
+[Sat Aug 24 22:48:14 2024] [::1]:52782 Closing
+[Sat Aug 24 22:48:16 2024] [::1]:52796 Accepted
+[Sat Aug 24 22:48:16 2024] [::1]:52796 [200]: POST /receiver.php
+[Sat Aug 24 22:48:16 2024] [::1]:52796 Closing
+[Sat Aug 24 22:48:18 2024] [::1]:52810 Accepted
+[Sat Aug 24 22:48:18 2024] [::1]:52810 [200]: POST /receiver.php
+[Sat Aug 24 22:48:18 2024] [::1]:52810 Closing
+[Sat Aug 24 22:48:20 2024] [::1]:52812 Accepted
+[Sat Aug 24 22:48:20 2024] [::1]:52812 [200]: POST /receiver.php
+[Sat Aug 24 22:48:20 2024] [::1]:52812 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40804 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40804 [200]: GET /templates/camera_temp/index.html
+[Sat Aug 24 22:48:21 2024] [::1]:40804 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40808 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40820 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40832 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40808 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:48:21 2024] [::1]:40820 [200]: GET /assets/js/client.min.js
+[Sat Aug 24 22:48:21 2024] [::1]:40808 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40820 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40832 [200]: GET /assets/js/loc.js
+[Sat Aug 24 22:48:21 2024] [::1]:40832 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40844 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40846 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40844 [200]: GET /templates/camera_temp/style.css
+[Sat Aug 24 22:48:21 2024] [::1]:40846 [200]: GET /templates/camera_temp/all.css
+[Sat Aug 24 22:48:21 2024] [::1]:40844 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40846 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40856 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40856 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sat Aug 24 22:48:21 2024] [::1]:40856 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40868 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40868 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Sat Aug 24 22:48:21 2024] [::1]:40868 Closing
+[Sat Aug 24 22:48:21 2024] [::1]:40884 Accepted
+[Sat Aug 24 22:48:21 2024] [::1]:40884 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Sat Aug 24 22:48:21 2024] [::1]:40884 Closing
+[Sat Aug 24 22:48:22 2024] [::1]:40886 Accepted
+[Sat Aug 24 22:48:22 2024] [::1]:40886 [200]: POST /receiver.php
+[Sat Aug 24 22:48:22 2024] [::1]:40886 Closing
+[Sat Aug 24 22:48:22 2024] [::1]:40888 Accepted
+[Sat Aug 24 22:48:22 2024] [::1]:40888 [200]: POST /templates/camera_temp/handler.php
+[Sat Aug 24 22:48:22 2024] [::1]:40888 Closing
+[Sat Aug 24 22:48:24 2024] [::1]:40898 Accepted
+[Sat Aug 24 22:48:24 2024] [::1]:40898 [200]: POST /receiver.php
+[Sat Aug 24 22:48:24 2024] [::1]:40898 Closing
+[Sat Aug 24 22:48:26 2024] [::1]:40908 Accepted
+[Sat Aug 24 22:48:26 2024] [::1]:40908 [200]: GET /templates/camera_temp/style.css
+[Sat Aug 24 22:48:26 2024] [::1]:40908 Closing
+[Sat Aug 24 22:48:26 2024] [::1]:40918 Accepted
+[Sat Aug 24 22:48:26 2024] [::1]:40918 [200]: GET /templates/camera_temp/all.css
+[Sat Aug 24 22:48:26 2024] [::1]:40918 Closing
+[Sat Aug 24 22:48:26 2024] [::1]:40926 Accepted
+[Sat Aug 24 22:48:26 2024] [::1]:40926 [200]: POST /receiver.php
+[Sat Aug 24 22:48:26 2024] [::1]:40926 Closing
+[Sat Aug 24 22:48:28 2024] [::1]:40934 Accepted
+[Sat Aug 24 22:48:28 2024] [::1]:40934 [200]: POST /receiver.php
+[Sat Aug 24 22:48:28 2024] [::1]:40934 Closing
+[Sat Aug 24 22:48:30 2024] [::1]:54636 Accepted
+[Sat Aug 24 22:48:30 2024] [::1]:54636 [200]: POST /receiver.php
+[Sat Aug 24 22:48:30 2024] [::1]:54636 Closing
+[Sat Aug 24 22:48:31 2024] [::1]:54650 Accepted
+[Sat Aug 24 22:48:31 2024] [::1]:54650 [200]: POST /templates/camera_temp/post.php
+[Sat Aug 24 22:48:31 2024] [::1]:54650 Closing
+[Sat Aug 24 22:48:32 2024] [::1]:54660 Accepted
+[Sat Aug 24 22:48:32 2024] [::1]:54660 [200]: POST /receiver.php
+[Sat Aug 24 22:48:32 2024] [::1]:54660 Closing
+[Sat Aug 24 22:48:34 2024] [::1]:54672 Accepted
+[Sat Aug 24 22:48:34 2024] [::1]:54672 [200]: POST /receiver.php
+[Sat Aug 24 22:48:34 2024] [::1]:54672 Closing
+[Sat Aug 24 22:48:36 2024] [::1]:54674 Accepted
+[Sat Aug 24 22:48:36 2024] [::1]:54674 [200]: POST /receiver.php
+[Sat Aug 24 22:48:36 2024] [::1]:54674 Closing
+[Sat Aug 24 22:48:38 2024] [::1]:54690 Accepted
+[Sat Aug 24 22:48:38 2024] [::1]:54690 [200]: POST /receiver.php
+[Sat Aug 24 22:48:38 2024] [::1]:54690 Closing
+[Sat Aug 24 22:48:40 2024] [::1]:55582 Accepted
+[Sat Aug 24 22:48:40 2024] [::1]:55582 [200]: POST /receiver.php
+[Sat Aug 24 22:48:40 2024] [::1]:55582 Closing
+[Sat Aug 24 22:48:40 2024] [::1]:55584 Accepted
+[Sat Aug 24 22:48:40 2024] [::1]:55584 [200]: POST /templates/camera_temp/post.php
+[Sat Aug 24 22:48:40 2024] [::1]:55584 Closing
+[Sat Aug 24 22:48:42 2024] [::1]:55588 Accepted
+[Sat Aug 24 22:48:42 2024] [::1]:55588 [200]: POST /receiver.php
+[Sat Aug 24 22:48:42 2024] [::1]:55588 Closing
+[Sat Aug 24 22:48:44 2024] [::1]:55598 Accepted
+[Sat Aug 24 22:48:44 2024] [::1]:55598 [200]: POST /receiver.php
+[Sat Aug 24 22:48:44 2024] [::1]:55598 Closing
+[Sat Aug 24 22:48:44 2024] [::1]:55610 Accepted
+[Sat Aug 24 22:48:44 2024] [::1]:55610 [200]: GET /images/cam24Aug2024174840.png
+[Sat Aug 24 22:48:44 2024] [::1]:55610 Closing
+[Sat Aug 24 22:48:46 2024] [::1]:55624 Accepted
+[Sat Aug 24 22:48:46 2024] [::1]:55624 [200]: POST /receiver.php
+[Sat Aug 24 22:48:46 2024] [::1]:55624 Closing
+[Sat Aug 24 22:48:48 2024] [::1]:55634 Accepted
+[Sat Aug 24 22:48:48 2024] [::1]:55634 [200]: POST /receiver.php
+[Sat Aug 24 22:48:48 2024] [::1]:55634 Closing
+[Sat Aug 24 22:48:50 2024] [::1]:55648 Accepted
+[Sat Aug 24 22:48:50 2024] [::1]:55648 [200]: POST /receiver.php
+[Sat Aug 24 22:48:50 2024] [::1]:55648 Closing
+[Sat Aug 24 22:48:52 2024] [::1]:46134 Accepted
+[Sat Aug 24 22:48:52 2024] [::1]:46134 [200]: POST /receiver.php
+[Sat Aug 24 22:48:52 2024] [::1]:46134 Closing
+[Sat Aug 24 22:48:54 2024] [::1]:46138 Accepted
+[Sat Aug 24 22:48:54 2024] [::1]:46138 [200]: POST /receiver.php
+[Sat Aug 24 22:48:54 2024] [::1]:46138 Closing
+[Sat Aug 24 22:48:56 2024] [::1]:46146 Accepted
+[Sat Aug 24 22:48:56 2024] [::1]:46146 [200]: POST /receiver.php
+[Sat Aug 24 22:48:56 2024] [::1]:46146 Closing
+[Sat Aug 24 22:48:58 2024] [::1]:46152 Accepted
+[Sat Aug 24 22:48:58 2024] [::1]:46152 [200]: POST /receiver.php
+[Sat Aug 24 22:48:58 2024] [::1]:46152 Closing
+[Sat Aug 24 22:49:00 2024] [::1]:46166 Accepted
+[Sat Aug 24 22:49:00 2024] [::1]:46166 [200]: POST /receiver.php
+[Sat Aug 24 22:49:00 2024] [::1]:46166 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36216 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36216 [302]: GET /
+[Sat Aug 24 22:49:01 2024] [::1]:36216 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36218 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36218 [200]: GET /panel.php
+[Sat Aug 24 22:49:01 2024] [::1]:36218 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36232 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36232 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:49:01 2024] [::1]:36232 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36244 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36246 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36260 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36264 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36276 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36244 [200]: GET /assets/css/light-theme.min.css
+[Sat Aug 24 22:49:01 2024] [::1]:36244 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36246 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:49:01 2024] [::1]:36246 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36260 [200]: GET /assets/js/script.js
+[Sat Aug 24 22:49:01 2024] [::1]:36260 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36264 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Aug 24 22:49:01 2024] [::1]:36264 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36276 [200]: GET /assets/js/growl-notification.min.js
+[Sat Aug 24 22:49:01 2024] [::1]:36276 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36290 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36290 [200]: GET /Settings.json
+[Sat Aug 24 22:49:01 2024] [::1]:36290 Closing
+[Sat Aug 24 22:49:01 2024] [::1]:36302 Accepted
+[Sat Aug 24 22:49:01 2024] [::1]:36302 [200]: POST /list_templates.php
+[Sat Aug 24 22:49:01 2024] [::1]:36302 Closing
+[Sat Aug 24 22:49:04 2024] [::1]:36318 Accepted
+[Sat Aug 24 22:49:04 2024] [::1]:36318 [200]: POST /receiver.php
+[Sat Aug 24 22:49:04 2024] [::1]:36318 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36326 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36326 [302]: GET /
+[Sat Aug 24 22:49:06 2024] [::1]:36326 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36338 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36338 [200]: GET /panel.php
+[Sat Aug 24 22:49:06 2024] [::1]:36338 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36344 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36344 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:49:06 2024] [::1]:36344 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36350 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36354 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36358 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36368 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36378 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36350 [200]: GET /assets/css/light-theme.min.css
+[Sat Aug 24 22:49:06 2024] [::1]:36350 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36354 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:49:06 2024] [::1]:36354 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36358 [200]: GET /assets/js/script.js
+[Sat Aug 24 22:49:06 2024] [::1]:36358 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36368 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Aug 24 22:49:06 2024] [::1]:36368 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36378 [200]: GET /assets/js/growl-notification.min.js
+[Sat Aug 24 22:49:06 2024] [::1]:36378 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36390 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36390 [200]: GET /Settings.json
+[Sat Aug 24 22:49:06 2024] [::1]:36390 Closing
+[Sat Aug 24 22:49:06 2024] [::1]:36402 Accepted
+[Sat Aug 24 22:49:06 2024] [::1]:36402 [200]: POST /list_templates.php
+[Sat Aug 24 22:49:06 2024] [::1]:36402 Closing
+[Sat Aug 24 22:49:09 2024] [::1]:36404 Accepted
+[Sat Aug 24 22:49:09 2024] [::1]:36404 [200]: POST /receiver.php
+[Sat Aug 24 22:49:09 2024] [::1]:36404 Closing
+[Sat Aug 24 22:49:11 2024] [::1]:51246 Accepted
+[Sat Aug 24 22:49:11 2024] [::1]:51246 [200]: POST /receiver.php
+[Sat Aug 24 22:49:11 2024] [::1]:51246 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51254 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51264 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51254 [200]: GET /panel.php
+[Sat Aug 24 22:49:13 2024] [::1]:51254 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51264 [200]: POST /receiver.php
+[Sat Aug 24 22:49:13 2024] [::1]:51264 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51270 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51270 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 24 22:49:13 2024] [::1]:51270 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51276 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51280 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51282 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51296 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51306 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51276 [200]: GET /assets/css/light-theme.min.css
+[Sat Aug 24 22:49:13 2024] [::1]:51276 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51280 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 24 22:49:13 2024] [::1]:51280 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51282 [200]: GET /assets/js/script.js
+[Sat Aug 24 22:49:13 2024] [::1]:51282 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51296 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Aug 24 22:49:13 2024] [::1]:51296 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51306 [200]: GET /assets/js/growl-notification.min.js
+[Sat Aug 24 22:49:13 2024] [::1]:51306 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51320 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51320 [200]: GET /Settings.json
+[Sat Aug 24 22:49:13 2024] [::1]:51320 Closing
+[Sat Aug 24 22:49:13 2024] [::1]:51328 Accepted
+[Sat Aug 24 22:49:13 2024] [::1]:51328 [200]: POST /list_templates.php
+[Sat Aug 24 22:49:13 2024] [::1]:51328 Closing
+[Sat Aug 24 22:49:16 2024] [::1]:51342 Accepted
+[Sat Aug 24 22:49:16 2024] [::1]:51342 [200]: POST /receiver.php
+[Sat Aug 24 22:49:16 2024] [::1]:51342 Closing
+[Sat Aug 24 22:49:18 2024] [::1]:51346 Accepted
+[Sat Aug 24 22:49:18 2024] [::1]:51346 [200]: POST /receiver.php
+[Sat Aug 24 22:49:18 2024] [::1]:51346 Closing
+[Sat Aug 24 22:49:20 2024] [::1]:51352 Accepted
+[Sat Aug 24 22:49:20 2024] [::1]:51352 [200]: POST /receiver.php
+[Sat Aug 24 22:49:20 2024] [::1]:51352 Closing
+[Sat Aug 24 22:49:22 2024] [::1]:50078 Accepted
+[Sat Aug 24 22:49:22 2024] [::1]:50078 [200]: POST /receiver.php
+[Sat Aug 24 22:49:22 2024] [::1]:50078 Closing
+[Sat Aug 24 22:49:24 2024] [::1]:50092 Accepted
+[Sat Aug 24 22:49:24 2024] [::1]:50092 [200]: POST /receiver.php
+[Sat Aug 24 22:49:24 2024] [::1]:50092 Closing
+[Sat Aug 24 22:49:26 2024] [::1]:50094 Accepted
+[Sat Aug 24 22:49:26 2024] [::1]:50094 [200]: POST /receiver.php
+[Sat Aug 24 22:49:26 2024] [::1]:50094 Closing
+[Sat Aug 24 22:49:28 2024] [::1]:50096 Accepted
+[Sat Aug 24 22:49:28 2024] [::1]:50096 [200]: POST /receiver.php
+[Sat Aug 24 22:49:28 2024] [::1]:50096 Closing
+[Sat Aug 24 22:49:30 2024] [::1]:50112 Accepted
+[Sat Aug 24 22:49:30 2024] [::1]:50112 [200]: POST /receiver.php
+[Sat Aug 24 22:49:30 2024] [::1]:50112 Closing

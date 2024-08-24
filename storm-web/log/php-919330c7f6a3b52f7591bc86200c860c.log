@@ -1,0 +1,7 @@
+[Sat Aug 24 22:50:07 2024] PHP 8.2.21 Development Server (http://localhost:2525) started
+[Sat Aug 24 22:50:08 2024] [::1]:46192 Accepted
+[Sat Aug 24 22:50:08 2024] [::1]:46192 [200]: POST /receiver.php
+[Sat Aug 24 22:50:08 2024] [::1]:46192 Closing
+[Sat Aug 24 22:50:10 2024] [::1]:46208 Accepted
+[Sat Aug 24 22:50:10 2024] [::1]:46208 [200]: POST /receiver.php
+[Sat Aug 24 22:50:10 2024] [::1]:46208 Closing
